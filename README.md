@@ -6,3 +6,6 @@
 <a href="https://ponosgames.com/information/appli/battlecats/scratch/index_002.html">にゃんこスクラッチ2</a><br>
 <a href="https://ponosgames.com/information/appli/battlecats/scratch/index_003.html">にゃんこスクラッチ3</a><br>
 <a href="https://ponosgames.com/information/appli/battlecats/scratch/index_004.html">にゃんこスクラッチ4</a><br>
+<a href="https://nyanko-events.ponosgames.com/control/event_update/battlecats/control.json">コントロール？</a><br>
+<a href="https://nyanko-backups.ponosgames.com/?action=getTime">GetTime？</a><br>
+<a href="https://nyanko-backups.ponosgames.com/index.php">Lumen？</a><br>
